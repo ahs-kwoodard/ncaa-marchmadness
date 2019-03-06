@@ -24,6 +24,10 @@ public class NCAABracketCalculator {
 
         ArrayList<Team> midWest_round1 = new ArrayList<>();
 
+        /**
+            Teams and Power Rankings are filled with NCAA 2017-2018
+        */
+        
             //Add teams to the South region
         south_round1.add(new Team("Virgina", 4, 1));
         south_round1.add(new Team("UMBC", 62, 16));
